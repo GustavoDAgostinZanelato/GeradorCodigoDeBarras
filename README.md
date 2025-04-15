@@ -30,7 +30,7 @@ cd gerador-codigos-barra
 python -m venv venv
 
 # Ativar (Windows)
-.env\Scriptsctivate
+.venv\Scripts\ctivate
 ```
 
 ### 3. Instale as dependências
@@ -56,17 +56,6 @@ Códigos de Barras/
 ```
 
 O nome do arquivo será `cb_<numero_gerado>.png`.
-
----
-
-## 🖼️ Exemplo de saída
-
-```
-Códigos de Barras/
-├── cb_529807966204.png
-├── cb_572632341462.png
-├── cb_874198804084.png
-```
 
 ---
 
